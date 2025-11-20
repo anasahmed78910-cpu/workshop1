@@ -43,7 +43,7 @@ console.log({user});
 function sum (n1,n2) {
    return n1+n2
 }
-let arr[1 ,2 ,3,4]
+let arr=[1,2,3,4]
 let sum=0;
 for(let i=0;i<arr.length;i++){
        sum+=arr[i]
