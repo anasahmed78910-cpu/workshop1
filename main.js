@@ -49,4 +49,7 @@ for(let i=0;i<arr.length;i++){
        sum+=arr[i]
 }
 
- 
+ function div ( n1,n2 ) {
+   return n1/n2
+   
+ }
